@@ -1,0 +1,47 @@
+using S4EWQ     453EREE3323QWEWEQWE323ERT346`12EWWWERASDFGGUYTRSAASDAZAZystem;
+
+namespace Classy
+{
+    class Animals
+    {
+        static void Main(string[] args)
+        {
+            cat cat = new cat();
+            cat.name = "snowball";
+            cat.sixtoedornot = true;
+
+            cat.greeting();
+
+            dog dog = new dog();
+            dog,name = "Bark,gruf";
+        }
+    }
+    class dog
+    {
+        public string name { get: set; };
+        public string breed { get; set; }
+       
+
+        public void acions()
+        {
+            Console.WriteLine("BarkMgruf"+ name );
+        }
+    }
+class cat
+{
+    public string name { get; set; };
+    public bool sixtoedornot { get; set; };
+        
+ 
+        public void  greeting()
+            foreach (int x in _name)
+            [
+            if (x > _name);
+            {
+            x== name
+            ]
+        {
+            Console.WriteLine("Meeow Meeow Meeeow Meeeow"+ name );
+        }
+    }
+}
